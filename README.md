@@ -86,3 +86,6 @@ A carteira exibe o progresso de forma clara:
 Ação: PETR4, Quantidade: 50/100, Status: Posição comprada (50%)
 Ação: VALE3, Quantidade: 200/200, Status: Posição neutra (100%)
 ```
+
+### Autor
+link repositório: https://github.com/matheuszilli/pb-financial.git
